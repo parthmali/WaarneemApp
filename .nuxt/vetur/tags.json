@@ -1,0 +1,35 @@
+{
+  "Slider": {
+    "description": "Auto imported from components/slider.vue"
+  },
+  "DatePicker": {
+    "description": "Auto imported from components/date-picker/index.vue"
+  },
+  "IconMdiArrowDown": {
+    "description": "Auto imported from components/icon/MdiArrowDown.vue"
+  },
+  "IconMdiArrowUp": {
+    "description": "Auto imported from components/icon/MdiArrowUp.vue"
+  },
+  "IconMdiCalendar": {
+    "description": "Auto imported from components/icon/MdiCalendar.vue"
+  },
+  "IconMdiClock": {
+    "description": "Auto imported from components/icon/MdiClock.vue"
+  },
+  "IconMdiClose": {
+    "description": "Auto imported from components/icon/MdiClose.vue"
+  },
+  "IconMdiPen": {
+    "description": "Auto imported from components/icon/MdiPen.vue"
+  },
+  "ShiftCard": {
+    "description": "Auto imported from components/shift/card.vue"
+  },
+  "Shift": {
+    "description": "Auto imported from components/shift/index.vue"
+  },
+  "Sidebar": {
+    "description": "Auto imported from components/sidebar/index.vue"
+  }
+}
